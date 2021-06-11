@@ -10,7 +10,7 @@ Installation
 
 Clone the repo recursively.
 
-``git clone --recurse-submodules https://github.com/The-OpenROAD-Project/PCB-PR-App.git``
+``git clone --recurse-submodules https://github.com/Max-Norman/PCB-PR-App.git``
 
 ``cd`` into the repo.
 
@@ -22,7 +22,7 @@ Install basic dependencies as root.
 
 Build the tools.
 
-``./ubuntu_install.sh``
+``sudo ./ubuntu_install.sh``
 
 
 Test Installation
