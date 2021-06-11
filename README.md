@@ -6,7 +6,7 @@ Ubuntu 20.04 is likely the same, but has not been tested.
 Ubuntu 16.04 is not compatible because it is difficult to get the latest version of Python 3.
 
 Installation
-^^^^^^^^^^^^
+===========
 
 Clone the repo recursively.
 
@@ -26,7 +26,7 @@ Build the tools.
 
 
 Test Installation
-^^^^^^^^^^^^^^^^^
+===========
 
 Run the regression tests.
 
@@ -36,7 +36,7 @@ The output should end with the string ``Success``.
 
 
 Run the Tools
-^^^^^^^^^^^^^
+===========
 
 Things to note when running the tools:
 
@@ -65,7 +65,7 @@ See the options with ``run_layout.py --help``.
 
 
 Make Your Own Tools
-^^^^^^^^^^^^^^^^^^^
+===========
 
 The API calls in this documentation work in Python.
 
